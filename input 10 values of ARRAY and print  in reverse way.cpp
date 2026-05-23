@@ -1,3 +1,4 @@
+//input 10 values of ARRAY and print  in reverse way
 #include <stdio.h>
 
 int main() 
