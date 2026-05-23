@@ -1,3 +1,4 @@
+//Sum of all even positioned numbers from 20 array elements
 #include<stdio.h>
 int main()
 {
