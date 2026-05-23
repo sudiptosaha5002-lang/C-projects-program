@@ -284,12 +284,12 @@ g++ "Armstrong number check.cpp" -o armstrong
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-
+Created by <b><Sudipto Saha><b>
 <div align="center">
 
 ### ⭐ If you find this helpful, please consider giving it a star!
 
 **Made with the pure madness of a programmer and lots of `printf()` statements that <Simplicity is the Soul of efficiency/> </code>**
-Created by <b><Sudipto Saha/><b>
+
 
 </div>
