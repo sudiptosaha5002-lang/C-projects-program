@@ -1,3 +1,4 @@
+//Binary-Search Technique
 #include<stdio.h>
 int main()
 {
