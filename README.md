@@ -289,6 +289,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### ⭐ If you find this helpful, please consider giving it a star!
 
-**Made with ❤️ and lots of `printf()` statements**
+**Made with the pure madness of a programmer and lots of `printf()` statements that <Simplicity is the Soul of efficiency/> </code>**
+Created by <b><Sudipto Saha/><b>
 
 </div>
