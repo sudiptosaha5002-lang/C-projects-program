@@ -1,4 +1,5 @@
-//Bubble-Sort Technique using Recursion
+//Bubble-Sort Technique using Recursion (Sorting 10 elements)
+//Ascending order
 #include<stdio.h>
 int bubbleSort(int arr[])
 {

@@ -1,4 +1,5 @@
-//Bubble-Sort Technique
+//Bubble-Sort Technique (Sorting 10 elements)
+//Ascending order
 #include<stdio.h>
 int main()
 {
