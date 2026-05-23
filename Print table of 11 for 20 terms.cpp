@@ -1,3 +1,4 @@
+//Print table of 11 for 20 terms
 #include<stdio.h>
 #include<math.h>
 int main()
