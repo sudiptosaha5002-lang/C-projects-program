@@ -1,3 +1,4 @@
+//enter 10 array elements and show all factorial value of each number
 #include<stdio.h>
 int main()
 {
