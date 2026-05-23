@@ -1,3 +1,4 @@
+//Bubble-Sort Technique
 #include<stdio.h>
 int main()
 {
