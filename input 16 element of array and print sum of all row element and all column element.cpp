@@ -1,3 +1,4 @@
+//input 16 element of array and print sum of all row element and all column element.
 #include<stdio.h>
 #include<math.h>
 int main()
