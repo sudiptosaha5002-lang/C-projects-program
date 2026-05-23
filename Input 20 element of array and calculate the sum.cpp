@@ -1,3 +1,4 @@
+//Input 20 element of array and calculate the sum
 #include<stdio.h>
 #include<math.h>
 int main()
