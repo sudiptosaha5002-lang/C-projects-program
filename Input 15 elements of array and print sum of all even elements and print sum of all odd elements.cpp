@@ -1,3 +1,5 @@
+//Input 15 elements of array and print sum of all even elements and print sum-
+//-of all odd elements.
 #include<stdio.h>
 #include<math.h>
 int main()
