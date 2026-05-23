@@ -12,7 +12,7 @@ int main()
 	}
 	for(i=0; i<15; i++)
 	{
-		if(arr[15]%2==0)
+		if(arr[i]%2==0)
 		s1=s1+arr[i];
 		else
 		s2=s2+arr[i];
