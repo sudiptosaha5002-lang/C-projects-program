@@ -1,3 +1,4 @@
+//Input 10 values of array and print maximum & minimum vlue.
 #include <stdio.h>
 int main() 
    {  
