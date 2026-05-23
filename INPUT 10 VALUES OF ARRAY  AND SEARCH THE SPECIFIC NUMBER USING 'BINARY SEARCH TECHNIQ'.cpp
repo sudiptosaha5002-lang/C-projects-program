@@ -26,7 +26,7 @@ int main()
 		}
 	}
 	if(f==1)
-	printf("SEARCH SUCCESSFULL");
+	printf("SEARCH SUCCESSFULL & NUMBER %d found at %d:",n, mid);
 	else
 	printf("SEARCH NOT SUCCESSFUL");
 }
