@@ -1,3 +1,4 @@
+//Print all prime number from 10 element of array
 #include<stdio.h>
 
 int main() 
