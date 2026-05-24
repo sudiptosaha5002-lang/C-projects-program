@@ -1,3 +1,5 @@
+//Binary-Search Technique Recursion (from 10 integer elements)
+//Ascending order
 #include<stdio.h>
 int f=0,p;
 int binarySearch(int arr[], int l, int u, int n)

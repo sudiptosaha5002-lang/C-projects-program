@@ -1,4 +1,5 @@
-//Binary-Search Technique
+//Binary-Search Technique (from 10 integer elements)
+//Ascending order
 #include<stdio.h>
 int main()
 {
