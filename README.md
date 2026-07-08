@@ -22,6 +22,15 @@
 
 This repository is my **personal C programming portfolio**, built while learning and practicing core computer science concepts. Every program here has been written, compiled, and tested — from basic I/O to advanced data structures.
 
+## 🆕 Recently Added Programs
+
+A few new beginner-friendly programs have recently been added, including:
+- `Leap year check in C.cpp`
+- `students data in array.cpp`
+- `WAP in C to print inputed number to 1.cpp`
+
+Compiled executables such as `.exe` files are ignored in Git, so the repository mainly tracks the source code.
+
 ```c
 #include <stdio.h>
 
