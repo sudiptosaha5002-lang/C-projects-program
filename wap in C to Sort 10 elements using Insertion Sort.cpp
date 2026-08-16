@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include<stdio.h>
 int main()
 {
@@ -26,7 +26,7 @@ int main()
 		printf("%d ",arr[i]);
 	}
 }
-=======
+
 #include<stdio.h>
 int main()
 {
@@ -54,4 +54,4 @@ int main()
 		printf("%d ",arr[i]);
 	}
 }
->>>>>>> f3d1a207e324e71f82ce5900d72ae5f38b90db67
+
