@@ -46,7 +46,7 @@ node *DeleteMiddleIndexNode(node *head)
 {
 	int i,pos=0;
 	node *ptr=NULL,*temp=NULL;
-	printf("enter the position for delete:");
+	printf("\nenter the position for delete:");
 	scanf("%d",&pos);
 	ptr=head;
 	for(i=1; i<pos-1; i++)
