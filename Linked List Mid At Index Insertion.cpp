@@ -50,6 +50,7 @@ node* MidIndexInsert(node *head)
 }
 void display(node *head)
 {
+	node *ptr;
 	printf("Updated Linked List:");
 	ptr=head;
 	while(ptr!=NULL)
