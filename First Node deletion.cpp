@@ -32,6 +32,7 @@ node *create()
 	return head;
 }
 printf("\nOriginal Linked List:");
+node *ptr;
 ptr=head;
 while(ptr!=NULL)
 {
