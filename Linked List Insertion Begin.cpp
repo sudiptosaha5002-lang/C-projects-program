@@ -34,10 +34,10 @@ node* create()
 node* InsertAtBegin(node *head)
 {
 	node *New=NULL;
-	new=(node *)malloc(sizeof(node));
+	New=(node *)malloc(sizeof(node));
 	printf("enter the value of this new Node:");
-	scanf("%d",new->data);
-	new=head;
+	scanf("%d",New->data);
+	New=head;
 	return head;
 }
 void display(node *head)
