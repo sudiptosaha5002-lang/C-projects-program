@@ -63,7 +63,7 @@ int main()
 {
    node* head=NULL;
    head=create();
-   head=MidIndexPosition(head);
+   head=MidIndexInsert(head);
    display(head);
 }
 
