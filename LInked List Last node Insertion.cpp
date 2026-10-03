@@ -33,7 +33,7 @@ node* create()
 }
 node* InsertAtLast(node *head)
 {
-	node *New=NULL;
+	node *New=NULL,*ptr=NULL;
 	New=(node *)malloc(sizeof(node));
 	printf("Enter value:");
 	scanf("%d",&New->data);
