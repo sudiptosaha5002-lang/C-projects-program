@@ -36,7 +36,7 @@ node* InsertAtBegin(node *head)
 	node *new=NULL;
 	new=(node *)malloc(sizeof(node));
 	printf("enter the value of this new Node:");
-	scanf("%d",new->data)
+	scanf("%d",new->data);
 	new=head;
 	return head;
 }
