@@ -56,6 +56,7 @@ node *DeleteMiddleIndexNode(node *head)
 	temp=ptr->next;
 	ptr->next=temp->next;
 	free(temp);
+	return head;
 }
 void display(node *head)
 {
