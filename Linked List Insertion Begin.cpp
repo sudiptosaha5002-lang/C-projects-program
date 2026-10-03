@@ -31,7 +31,7 @@ node* create()
 	}
 	return head;
 }
-node* InsertAtBegin(ptr *head)
+node* InsertAtBegin(node *head)
 {
 	node*new=NULL;
 	new=(node *)malloc(sizeof(node));
