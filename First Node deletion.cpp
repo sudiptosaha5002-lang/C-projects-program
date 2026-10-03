@@ -31,13 +31,16 @@ node *create()
 	}
 	return head;
 }
-printf("\nOriginal Linked List:");
-node *ptr;
-ptr=head;
-while(ptr!=NULL)
+void originalNode(node *head)
 {
-   printf("%d",ptr->data);
-   ptr=ptr->next;
+	printf("\nOriginal Linked List:");
+    node *ptr;
+    ptr=head;
+    while(ptr!=NULL)
+    {
+       printf("%d",ptr->data);
+       ptr=ptr->next;
+    }
 }
 node *DeleteFirstNode(node *head)
 {
@@ -63,5 +66,6 @@ int main()
 	node *head=NULL;
 	head= create();
 	head=DeleteFirstNode(head);
+	originalNode(node);
 	display(head);
 }
