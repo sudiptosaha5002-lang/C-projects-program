@@ -41,7 +41,7 @@ node* InsertAtLast(node *head)
 	ptr=head;
 	while(ptr->next!=NULL)
 	{
-		ptr=ptr->Next;
+		ptr=ptr->mext;
 	}
 	ptr->next=New;
 	return head;
