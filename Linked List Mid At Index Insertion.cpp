@@ -8,7 +8,7 @@ typedef struct node
 node;
 node* create()
 {
-	int nodes=0,pos=0;
+	int nodes=0;
 	node *ptr=NULL, *head=NULL;
 	printf("Enter number of node:");
 	scanf("%d",&nodes);
@@ -33,6 +33,7 @@ node* create()
 }
 node* MidIndexPosition(node *head)
 {
+	int pos=0;
 	node *New=NULL;
 	printf("Enter position to Insert:");
 	scanf("%d",&pos);
