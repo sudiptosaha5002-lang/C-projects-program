@@ -59,6 +59,7 @@ node *DeleteMiddleIndexNode(node *head)
 }
 void display(node *head)
 {
+	printf("\nUpdated Linked List:");
 	node *ptr;
 	ptr=head;
 	while(ptr!=NULL)
