@@ -66,7 +66,7 @@ int main()
 {
 	node *head=NULL;
 	head= create();
-	head=DeleteFirstNode(head);
 	originalNode(head);
+	head=DeleteFirstNode(head);
 	display(head);
 }
