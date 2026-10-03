@@ -53,6 +53,7 @@ node *DeleteFirstNode(node *head)
 }
 void display(node *head)
 {
+	node *ptr;
 	printf("\nAfter Deletion Updated Node:");
 	ptr=head;
 	while(ptr!=NULL)
