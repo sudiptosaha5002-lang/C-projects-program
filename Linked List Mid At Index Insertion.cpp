@@ -46,6 +46,7 @@ node* MidIndexInsert(node *head)
 		ptr=ptr->next;
 	}
 	New->next=ptr->next;
+	ptr=head;
     return head;
 }
 void display(node *head)
