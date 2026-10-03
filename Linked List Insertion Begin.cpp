@@ -38,6 +38,7 @@ node* InsertAtBegin(node *head)
 	printf("enter the value of this new Node:");
 	scanf("%d",&New->data);
 	New->next=head;
+	head=New;
 	return head;
 }
 void display(node *head)
