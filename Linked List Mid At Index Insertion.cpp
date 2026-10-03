@@ -55,7 +55,7 @@ void display(node *head)
 	ptr=head;
 	while(ptr!=NULL)
 	{
-		printf("%d",ptr-data);
+		printf("%d",ptr->data);
 		ptr=ptr->next;
 	}
 }
