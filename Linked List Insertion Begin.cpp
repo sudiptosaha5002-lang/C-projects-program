@@ -5,6 +5,7 @@ typedef struct node
 	int data;
 	struct node*next;
 }
+node;
 node* create()
 {
 	int nodes=0;
