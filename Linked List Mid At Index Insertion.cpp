@@ -31,7 +31,7 @@ node* create()
 	}
 	return head;
 }
-node* MidIndexPosition(node *head)
+node* MidIndexInsert(node *head)
 {
 	int pos=0;
 	node *New=NULL;
