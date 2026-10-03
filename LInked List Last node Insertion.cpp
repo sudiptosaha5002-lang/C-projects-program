@@ -35,7 +35,7 @@ node* InsertAtLast(node *head)
 {
 	node *New=NULL,*ptr=NULL;
 	New=(node *)malloc(sizeof(node));
-	printf("Enter value:");
+	printf("Enter Last Insertion data:");
 	scanf("%d",&New->data);
 	New->next=NULL;
 	ptr=head;
