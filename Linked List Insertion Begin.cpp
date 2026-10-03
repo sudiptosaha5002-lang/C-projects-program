@@ -42,6 +42,8 @@ node* InsertAtBegin(node *head)
 }
 void display(node *head)
 {
+	node *ptr;
+	ptr=head;
 	printf("Updated Linked List:");
 	while(ptr!=NULL)
 	{
