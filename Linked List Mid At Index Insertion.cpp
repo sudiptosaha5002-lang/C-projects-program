@@ -34,7 +34,7 @@ node* create()
 node* MidIndexInsert(node *head)
 {
 	int pos=0;
-	node *New=NULL;
+	node *New=NULL,*ptr=NULL;
 	printf("Enter position to Insert:");
 	scanf("%d",&pos);
 	New=(node *)malloc(sizeof(node));
