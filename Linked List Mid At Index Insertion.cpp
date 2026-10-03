@@ -37,6 +37,11 @@ node* MidIndexInsert(node *head)
 	node *New=NULL,*ptr=NULL;
 	printf("Enter position to Insert:");
 	scanf("%d",&pos);
+	if(pos<=1)
+	{
+		printf("Invalid position");
+		return head;
+	}
 	New=(node *)malloc(sizeof(node));
 	printf("enter value:");
 	scanf("%d",&New->data);
