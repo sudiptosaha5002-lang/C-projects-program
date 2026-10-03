@@ -33,7 +33,7 @@ node* create()
 }
 node* MidIndexInsert(node *head)
 {
-	int pos=0;
+	int i,pos=0;
 	node *New=NULL,*ptr=NULL;
 	printf("Enter position to Insert:");
 	scanf("%d",&pos);
