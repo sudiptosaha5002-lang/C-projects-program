@@ -72,7 +72,7 @@ int main()
 	node *head=NULL;
 	head= create();
 	originalNode(head);
-	head=*DeleteMiddleIndexNode(head);
+	head=DeleteMiddleIndexNode(head);
 	display(head);
 }
 
