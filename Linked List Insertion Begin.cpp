@@ -29,6 +29,7 @@ node* create()
 		ptr->next=NULL;
 		nodes--;
 	}
+	return head;
 }
 node* InsertAtBegin(ptr *head)
 {
