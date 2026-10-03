@@ -8,7 +8,7 @@ typedef struct node
 node;
 node* create()
 {
-	int nodes=0;pos=0;
+	int nodes=0,pos=0;
 	node *ptr=NULL, *head=NULL;
 	printf("Enter number of node:");
 	scanf("%d",&nodes);
